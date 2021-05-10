@@ -1,0 +1,17 @@
+{
+	"deno.enable": true,
+	"deno.lint": true,
+	"deno.unstable": true,
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "evening-soiree.syncincdb.com",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "AirTable",
+			"password": "wE4klJBHvXYubgib99eygglTRNW9tII2pLzMndCx",
+			"username": "ru284mr15ye0ogt",
+			"database": "dbumsivn5buvr0d"
+		}
+	]
+}
